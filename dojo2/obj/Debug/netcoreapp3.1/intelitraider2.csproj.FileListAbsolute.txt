@@ -1,0 +1,13 @@
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\bin\Debug\netcoreapp3.1\intelitraider2.exe
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\bin\Debug\netcoreapp3.1\intelitraider2.deps.json
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\bin\Debug\netcoreapp3.1\intelitraider2.runtimeconfig.json
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\bin\Debug\netcoreapp3.1\intelitraider2.runtimeconfig.dev.json
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\bin\Debug\netcoreapp3.1\intelitraider2.dll
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\bin\Debug\netcoreapp3.1\intelitraider2.pdb
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.csprojAssemblyReference.cache
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.AssemblyInfoInputs.cache
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.AssemblyInfo.cs
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.dll
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.pdb
+C:\Users\douglas\Desktop\atividades\intelitraider2\intelitraider2\obj\Debug\netcoreapp3.1\intelitraider2.genruntimeconfig.cache
