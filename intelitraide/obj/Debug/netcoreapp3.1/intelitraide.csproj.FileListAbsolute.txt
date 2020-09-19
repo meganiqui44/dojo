@@ -1,0 +1,13 @@
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.csprojAssemblyReference.cache
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.AssemblyInfoInputs.cache
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.AssemblyInfo.cs
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\bin\Debug\netcoreapp3.1\intelitraide.exe
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\bin\Debug\netcoreapp3.1\intelitraide.deps.json
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\bin\Debug\netcoreapp3.1\intelitraide.runtimeconfig.json
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\bin\Debug\netcoreapp3.1\intelitraide.runtimeconfig.dev.json
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\bin\Debug\netcoreapp3.1\intelitraide.dll
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\bin\Debug\netcoreapp3.1\intelitraide.pdb
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.dll
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.pdb
+C:\Users\douglas\Desktop\atividades\intelitraide\intelitraide\obj\Debug\netcoreapp3.1\intelitraide.genruntimeconfig.cache
